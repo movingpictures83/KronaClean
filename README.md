@@ -1,0 +1,2 @@
+# KronaClean
+Cleanup Krona file
