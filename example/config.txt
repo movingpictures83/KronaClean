@@ -1,0 +1,2 @@
+Prefix plugins/KronaClean/example
+Plugin KronaClean inputfile parameters.txt outputfile output.krona

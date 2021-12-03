@@ -1,0 +1,2 @@
+kronafile	input.krona
+subspecies	subspecies.txt
